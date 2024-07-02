@@ -1,2 +1,4 @@
 # python_practice
-practice python
+-Case Study [ automatidata_google.ipynb ] 
+-practice [Lesson_2(par_2).ipynb ]
+
